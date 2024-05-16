@@ -1,2 +1,2 @@
 # Astatine
-i managed to make a comeback?
+C GDI trojan by TruLone, password: astatinedestroyedyourpc
